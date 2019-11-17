@@ -1,5 +1,5 @@
-# Notarizzazione in blockchain
-Libreria e smartcontract didattici per effettuare transazioni in blockchain.
+# Notarization in blockchain
+Sample library to learn write data in blockchain
 
 - git clone 
 - npm install
