@@ -5,5 +5,5 @@ Sample library to learn write data in blockchain
 - npm install
 - rename .env-example -> .env
 - edit .env with correct values
-- node index.js for sending transaction
+- node notarize.js for sending transaction
 - check with etherscan
